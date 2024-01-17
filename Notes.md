@@ -1,0 +1,207 @@
+Skills at a glance
+•	Describe cloud concepts (25–30%)
+•	Describe Azure architecture and services (35–40%)
+•	Describe Azure management and governance (30–35%)
+Describe cloud concepts (25–30%)
+Describe cloud computing
+•	Define cloud computing
+•	Describe the shared responsibility model
+•	Define cloud models, including public, private, and hybrid
+•	Identify appropriate use cases for each cloud model
+•	Describe the consumption-based model
+•	Compare cloud pricing models
+•	Describe serverless
+Describe the benefits of using cloud services
+•	Describe the benefits of high availability and scalability in the cloud
+•	Describe the benefits of reliability and predictability in the cloud
+•	Describe the benefits of security and governance in the cloud
+•	Describe the benefits of manageability in the cloud
+Describe cloud service types
+•	Describe infrastructure as a service (IaaS)
+•	Describe platform as a service (PaaS)
+•	Describe software as a service (SaaS)
+•	Identify appropriate use cases for each cloud service type (IaaS, PaaS, and SaaS)
+Describe Azure architecture and services (35–40%)
+Describe the core architectural components of Azure
+•	Describe Azure regions, region pairs, and sovereign regions
+•	Describe availability zones
+•	Describe Azure datacenters
+•	Describe Azure resources and resource groups
+•	Describe subscriptions
+•	Describe management groups
+•	Describe the hierarchy of resource groups, subscriptions, and management groups
+Describe Azure compute and networking services
+•	Compare compute types, including containers, virtual machines, and functions
+•	Describe virtual machine options, including Azure virtual machines, Azure Virtual Machine Scale Sets, availability sets, and Azure Virtual Desktop
+•	Describe the resources required for virtual machines
+•	Describe application hosting options, including web apps, containers, and virtual machines
+•	Describe virtual networking, including the purpose of Azure virtual networks, Azure virtual subnets, peering, Azure DNS, Azure VPN Gateway, and ExpressRoute
+•	Define public and private endpoints
+Describe Azure storage services
+•	Compare Azure Storage services
+•	Describe storage tiers
+•	Describe redundancy options
+•	Describe storage account options and storage types
+•	Identify options for moving files, including AzCopy, Azure Storage Explorer, and Azure File Sync
+•	Describe migration options, including Azure Migrate and Azure Data Box
+Describe Azure identity, access, and security
+•	Describe directory services in Azure, including Microsoft Entra ID and Microsoft Entra Domain Services
+•	Describe authentication methods in Azure, including single sign-on (SSO), multi-factor authentication (MFA), and passwordless
+•	Describe external identities in Azure, including business-to-business (B2B) and business-to-customer (B2C)
+•	Describe Microsoft Entra Conditional Access
+•	Describe Azure role-based access control (RBAC)
+•	Describe the concept of Zero Trust
+•	Describe the purpose of the defense-in-depth model
+•	Describe the purpose of Microsoft Defender for Cloud
+Describe Azure management and governance (30–35%)
+Describe cost management in Azure
+•	Describe factors that can affect costs in Azure
+•	Compare the pricing calculator and the Total Cost of Ownership (TCO) Calculator
+•	Describe cost management capabilities in Azure
+•	Describe the purpose of tags
+Describe features and tools in Azure for governance and compliance
+•	Describe the purpose of Microsoft Purview in Azure
+•	Describe the purpose of Azure Policy
+•	Describe the purpose of resource locks
+Describe features and tools for managing and deploying Azure resources
+•	Describe the Azure portal
+•	Describe Azure Cloud Shell, including Azure Command-Line Interface (CLI) and Azure PowerShell
+•	Describe the purpose of Azure Arc
+•	Describe infrastructure as code (IaC)
+•	Describe Azure Resource Manager (ARM) and ARM templates
+Describe monitoring tools in Azure
+•	Describe the purpose of Azure Advisor
+•	Describe Azure Service Health
+•	Describe Azure Monitor, including Log Analytics, Azure Monitor alerts, and Application Insights
+
+Coursera
+Describe Cloud Concepts (20-25%) 
+Identify the benefits and considerations of using cloud services 
+•	identify the benefits of cloud computing, such as High Availability, Scalability, Elasticity, Agility, and Disaster Recovery 
+•	describe the consumption-based model 
+•	identify the differences between Capital Expenditure (CapEx) and Operational Expenditure (OpEx) 
+Describe the differences between categories of cloud services 
+•	describe the shared responsibility model 
+•	describe Infrastructure-as-a-Service (IaaS) 
+•	describe Platform-as-a-Service (PaaS) 
+•	describe serverless computing 
+•	describe Software-as-a-Service (SaaS) 
+•	identify a service type based on a use case 
+Describe the differences between types of cloud computing 
+•	define cloud computing 
+•	describe Hybrid cloud 
+•	compare and contrast the three types of cloud computing 
+•	describe Public cloud 
+•	describe Private cloud 
+Describe Core Azure Services (15-20%) 
+Describe the core Azure architectural components 
+•	describe the benefits and usage of Regions and Region Pairs 
+•	describe the benefits and usage of Management Groups 
+•	describe the benefits and usage of Azure Resource Manager 
+•	explain Azure resources 
+•	describe the benefits and usage of Availability Zones 
+•	describe the benefits and usage of Resource Groups 
+•	describe the benefits and usage of Subscriptions 
+Describe core resources available in Azure 
+•	describe the benefits and usage of Virtual Machines, Azure App Services, Azure Container Instances (ACI), Azure Kubernetes Service (AKS), and Windows Virtual Desktop 
+•	describe the benefits and usage of Azure Marketplace 
+•	describe the benefits and usage of Virtual Networks, VPN Gateway, Virtual Network peering, and ExpressRoute 
+•	describe the benefits and usage of Container (Blob) Storage, Disk Storage, File Storage, and storage tiers 
+•	describe the benefits and usage of Cosmos DB, Azure SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL, and SQL Managed Instance 
+Describe core solutions and management tools on Azure (10-15%) 
+Describe core solutions available in Azure 
+•	describe the benefits and usage of Internet of Things (IoT) Hub, IoT Central, and Azure Sphere 
+•	describe the benefits and usage of Azure Synapse Analytics, HDInsight, and Azure Databricks 
+•	describe the benefits and usage of Azure Machine Learning, Cognitive Services and Azure Bot Service 
+•	describe the benefits and usage of serverless computing solutions that include Azure Functions and Logic Apps 
+•	describe the benefits and usage of Azure DevOps, GitHub, GitHub Actions, and Azure DevTest Labs 
+Describe Azure management tools  
+•	describe the functionality and usage of the Azure Portal, Azure PowerShell, Azure CLI, Cloud Shell, and Azure Mobile App 
+•	describe the functionality and usage of Azure Monitor 
+•	describe the functionality and usage of Azure Service Health 
+•	describe the functionality and usage of Azure Advisor 
+•	describe the functionality and usage of Azure Resource Manager (ARM) templates 
+Describe general security and network security features (10-15%) 
+Describe Azure security features 
+•	describe basic features of Azure Security Center, including policy compliance, security alerts, secure score, and resource hygiene 
+•	describe the functionality and usage of Key Vault 
+•	describe the functionality and usage of Azure Sentinel 
+•	describe the functionality and usage of Azure Dedicated Hosts 
+Describe Azure network security 
+•	describe the concept of defense in depth 
+•	describe the functionality and usage of Azure Firewall 
+•	describe the functionality and usage of Azure DDoS protection 
+•	describe the functionality and usage of Network Security Groups (NSG) 
+Describe identity, governance, privacy, and compliance features (20- 25%) 
+Describe core Azure identity services 
+•	explain the difference between authentication and authorization 
+•	define Azure Active Directory 
+•	describe the functionality and usage of Azure Active Directory
+•	describe the functionality and usage of Conditional Access, Multi-Factor Authentication (MFA), and Single Sign-On (SSO) 
+Describe Azure governance features 
+•	describe the functionality and usage of Role-Based Access Control (RBAC) 
+•	describe the functionality and usage of resource locks 
+•	describe the functionality and usage of tags 
+•	describe the functionality and usage of Azure Policy 
+•	describe the functionality and usage of Azure Blueprints 
+•	describe the Cloud Adoption Framework for Azure 
+Describe privacy and compliance resources 
+•	describe the Microsoft core tenets of Security, Privacy, and Compliance 
+•	describe the purpose of the Trust Center 
+•	describe the purpose of the Azure compliance documentation 
+•	describe the purpose of Azure Sovereign Regions (Azure Government cloud services and Azure China cloud services)  
+•	describe the purpose of the Microsoft Privacy Statement, Online Services Terms (OST) and Data Protection Amendment (DPA) 
+Describe Azure cost management and Service Level Agreements (10- 15%) 
+Describe methods for planning and managing costs 
+•	identify factors that can affect costs (resource types, services, locations, ingress and egress traffic) 
+•	describe the functionality and usage of Azure Cost Management 
+•	identify factors that can reduce costs (reserved instances, reserved capacity, hybrid use benefit, spot pricing) 
+•	describe the functionality and usage of the Pricing calculator and the Total Cost of Ownership (TCO) calculator 
+Describe Azure Service Level Agreements (SLAs) and service lifecycles 
+•	describe the purpose of an Azure Service Level Agreement (SLA) 
+•	identify actions that can impact an SLA (i.e. Availability Zones) 
+•	describe the service lifecycle in Azure (Public Preview and General Availability) 
+Course Syllabus  
+This course is the first of a series that aims to help you learn more about Azure and prepares you for the Azure 900 Exam. When you pass the AZ-900 exam, you earn the Microsoft Certified Azure Fundamentals certification. 
+Module 1: Introduction to Azure Fundamentals 
+In this module, you are introduced to Azure fundamentals. You’ll learn basic cloud concepts, get a streamlined overview of many Azure services, and be able to access hands-on exercises to deploy your very first services for free. After completing this module, you will be able to: 1) Describe the basic concepts of cloud computing; 2) Determine whether Azure is the right solution for your business needs; 3) Differentiate between the different methods of creating an Azure subscription. 
+Module 2: Azure Fundamental Concepts & Architectural Components 
+In this module, you'll learn about the advantages of using cloud computing services and how to differentiate between the categories and types of cloud computing. You'll also examine the various concepts, resources, and terminology that are necessary to work with Azure architecture. After completing this module, you will be able to: 1) Identify the benefits and considerations of using cloud services; 2) Describe the differences between categories of cloud services; 3) Describe the differences between types of cloud computing; 4) Understand Azure subscriptions and management groups; 5) Evaluate Azure resources, resource groups, and Azure Resource Manager; 6) Identify Azure regions, region pairs, and availability zones. 
+Module 3: Azure Database, Analytics, & Compute Services 
+In this module, you'll learn about several of the database services that are available on Microsoft Azure, such as Azure Cosmos DB, Azure SQL Database, Azure SQL Managed Instance, Azure Database for MySQL, and Azure Database for PostgreSQL. In addition, you'll learn about several of the big data and analysis services in Azure. You'll also learn how to take advantage of several virtualization services in Azure compute, which can help your applications scale out quickly and efficiently to meet increasing demands. After completing this module, you will be able to: 1) Describe Azure Cosmos DB; 2) Describe Azure SQL Database and SQL Managed Instance; 3) Describe Azure Database for MySQL and PostgreSQL 4) Explore big data and analytics; 5) Explore Azure virtual machines and app services; 6) Explain Azure container instances and Kubernetes services; 7) Explore Azure functions and Windows virtual desktop. 
+Module 4: Azure Storage & Networking Services 
+In this module, you'll learn about some of the different storage options that are available in Azure Storage services, and the scenarios in which each storage option is appropriate. As you complete the individual units in this module, you'll learn about Azure Blob Storage, Azure Disk Storage, Azure Files, and Blob access tiers. You'll also take a look at several of the core networking resources that are available in Azure. You'll learn about Azure Virtual Network, which you can configure into a customized network environment that meets your company's needs. You'll also learn how you can use Azure VPN Gateway and Azure ExpressRoute to create secure communication tunnels between your company's different locations. After completing this module, you will be able to: 1) Describe Azure Blob Storage, Azure Disk Storage; 2) Understand the benefit of Azure Files; 3) Describe Azure Blob access tiers; 4) Describe the core networking resources that are available in Azure; 5) Describe the benefits and usage of Virtual Network; 6) VPN Gateway, and ExpressRoute. 
+By the end of this course, you’ll be able to:  
+Understand the benefits of taking the AZ-900 exam and becoming Microsoft Certified 
+•	Explain cloud concepts such as high availability, scalability, elasticity, agility, and disaster recovery 
+•	Compare Azure's database services such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azure Database for PostgreSQL, and Azure's big data and analysis services 
+•	Examine Azure networking resources such as Virtual Networks, VPN Gateways, and Azure ExpressRoute 
+•	Summarize Azure storage services such Azure Blob Storage, Azure Disk Storage, and Azure File Storage
+•	Describe core Azure architecture components such as subscriptions, management groups, resources, and resource groups 
+•	Summarize geographic distribution concepts such as Azure regions, region pairs, and availability zones 
+•	Understand the breadth of services available in Azure including compute, network, storage, and database 
+•	Identify virtualization services such as Azure Virtual Machines, Azure Container Instances, Azure Kubernetes Service, and Windows Virtual Desktop 
+•	Identify the benefits of cloud computing in Azure and how it can save you time and money 
+
+
+Introduction to cloud computing
+Completed100 XP
+•	1 minute
+In this module, you’ll be introduced to general cloud concepts. You’ll start with an introduction to the cloud in general. Then you'll dive into concepts like shared responsibility, different cloud models, and explore the unique pricing method for the cloud.
+If you’re already familiar with cloud computing, this module may be largely review for you.
+Learning objectives
+After completing this module, you’ll be able to:
+•	Define cloud computing.
+•	Describe the shared responsibility model.
+•	Define cloud models, including public, private, and hybrid.
+•	Identify appropriate use cases for each cloud model.
+•	Describe the consumption-based model.
+•	Compare cloud pricing models.
+What is cloud computing
+Completed100 XP
+•	3 minutes
+Cloud computing is the delivery of computing services over the internet. Computing services include common IT infrastructure such as virtual machines, storage, databases, and networking. Cloud services also expand the traditional IT offerings to include things like Internet of Things (IoT), machine learning (ML), and artificial intelligence (AI).
+Because cloud computing uses the internet to deliver these services, it doesn’t have to be constrained by physical infrastructure the same way that a traditional datacenter is. That means if you need to increase your IT infrastructure rapidly, you don’t have to wait to build a new datacenter—you can use the cloud to rapidly expand your IT footprint.
+This short video provides a quick introduction to cloud computing.
+________________________________________
+Next unit: Describe the shared responsibility model
